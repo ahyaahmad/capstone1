@@ -7,6 +7,7 @@ Pada program ini memiliki menu utama sebagai berikut:
 3. Update Klasemen
 4. Hapus Club
 5. Keluar
+
 Berdasarkan menu utama di atas, program ini memiliki fungsi CRUD atau Create, Read, Update, dan Delete.
 
 Menu nomor 1. Tambah Club menjalankan fungsi Create, yaitu menambahkan/mengcreate klub baru ke dalam klasemen.
