@@ -8,8 +8,8 @@ Pada program ini memiliki menu utama sebagai berikut:
 4. Hapus Club
 5. Keluar
 
-Berdasarkan menu utama di atas, program ini memiliki fungsi CRUD atau Create, Read, Update, dan Delete.
 
+Berdasarkan menu utama di atas, program ini memiliki fungsi CRUD atau Create, Read, Update, dan Delete.
 Menu nomor 1. Tambah Club menjalankan fungsi Create, yaitu menambahkan/mengcreate klub baru ke dalam klasemen.
 Pada saat menambahkan klub baru ke dalam klasemen, program akan meminta user untuk menginput data klub tersebut berupa: Nama Klub, Jumlah Menang, Seri, dan Kalah. Kemudian secara otomatis program akan menghitung poin klub yang baru ditambahkan tersebut dari hasil jumlah menang yang dikalikan 3 poin dan ditambah dengan jumlah seri yang bernilai 1 poin, sedangakn kalah tidak dihitung karena bernilai 0 poin. Setelah itu, klub baru akan dimasukkan ke dalam klasemen sesuai dengan jumlah poin yang dimiliki oleh klub tersebut.
 
